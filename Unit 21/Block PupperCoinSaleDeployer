@@ -1,0 +1,16 @@
+ [block:24 txIndex:0] from: 0x4eC...BAD2fto: PupperCoinSaleDeployer.(constructor)value: 0 weidata: 0x608...00000logs: 6hash: 0x8c4...f30ef
+creation of PupperCoinSaleDeployer pending...
+ 
+ [block:25 txIndex:0] from: 0x4eC...BAD2fto: PupperCoinSaleDeployer.(constructor)value: 0 weidata: 0x608...00000logs: 6hash: 0x7d9...bff0f
+ status	true Transaction mined and execution succeed
+ transaction hash	0x7d95e5fcc444a3264c5f7147c866fe834b5c3ad321fd2a44a259b159978bff0f Copy value to clipboard
+ from	0x4eCd59E58C01642fa99C0996B1084A3275EBAD2f Copy value to clipboard
+ to	PupperCoinSaleDeployer.(constructor) Copy value to clipboard
+ gas	4794631 gas Copy value to clipboard
+ transaction cost	4775431 gas Copy value to clipboard
+ hash	0x7d95e5fcc444a3264c5f7147c866fe834b5c3ad321fd2a44a259b159978bff0f Copy value to clipboard
+ input	0x608...00000 Copy value to clipboard
+ decoded input	{ "string name": "LToken", "string symbol": "LTO", "address wallet": "0x241B574A002E4908207A8a57e5ca38cDA65C8E60" } Copy value to clipboard
+ decoded output	 - Copy value to clipboard
+ logs	[ { "from": "0x3573ac72905413190c6cE56443b676ffBEeA899F", "topic": "0x6ae172837ea30b801fbfcdd4108aa1d5bf8ff775444fd70256b44e6bf3dfc3f6", "event": "MinterAdded", "args": { "0": "0xa791524C91ACc22833006F85B48C555f05D75B65", "account": "0xa791524C91ACc22833006F85B48C555f05D75B65" } }, { "from": "0x3573ac72905413190c6cE56443b676ffBEeA899F", "topic": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef", "event": "Transfer", "args": { "0": "0x0000000000000000000000000000000000000000", "1": "0xa791524C91ACc22833006F85B48C555f05D75B65", "2": "0", "from": "0x0000000000000000000000000000000000000000", "to": "0xa791524C91ACc22833006F85B48C555f05D75B65", "value": "0" } }, { "from": "0x2E8229D4d71198179EE3Bca97F4FA3D408fB3a60", "topic": "0x4101e71e974f68df5e9730cc223280b41654676bbb052cdcc735c3337e64d2d9", "event": "PrimaryTransferred", "args": { "0": "0x26Fe90E3ca6dD042Ec0373716E8EaEda11da7298", "recipient": "0x26Fe90E3ca6dD042Ec0373716E8EaEda11da7298" } }, { "from": "0x2c93Df7Ae13a3Ef2f4d7b8DA1EC94CE9aC3DcC04", "topic": "0x4101e71e974f68df5e9730cc223280b41654676bbb052cdcc735c3337e64d2d9", "event": "PrimaryTransferred", "args": { "0": "0x26Fe90E3ca6dD042Ec0373716E8EaEda11da7298", "recipient": "0x26Fe90E3ca6dD042Ec0373716E8EaEda11da7298" } }, { "from": "0x3573ac72905413190c6cE56443b676ffBEeA899F", "topic": "0x6ae172837ea30b801fbfcdd4108aa1d5bf8ff775444fd70256b44e6bf3dfc3f6", "event": "MinterAdded", "args": { "0": "0x26Fe90E3ca6dD042Ec0373716E8EaEda11da7298", "account": "0x26Fe90E3ca6dD042Ec0373716E8EaEda11da7298" } }, { "from": "0x3573ac72905413190c6cE56443b676ffBEeA899F", "topic": "0xe94479a9f7e1952cc78f2d6baab678adc1b772d936c6583def489e524cb66692", "event": "MinterRemoved", "args": { "0": "0xa791524C91ACc22833006F85B48C555f05D75B65", "account": "0xa791524C91ACc22833006F85B48C555f05D75B65" } } ] Copy value to clipboard Copy value to clipboard
+ value	0 wei Copy value to clipboard
